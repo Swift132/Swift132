@@ -1,7 +1,7 @@
 ### Diogo Pacheco
 [![GitHub followers](https://img.shields.io/github/followers/swift132.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/swift132?tab=followers)
 
-## Contato
+## Contactos
 
 Sinta-se à vontade para entrar em contato por e-mail:
 
